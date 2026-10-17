@@ -6,7 +6,7 @@
 #!moduleUrl=https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/All_In_One.sgmodule
 #!icon=https://module-ios.netlify.app/assets/img/shadowrocket.webp
 #!howtouse=Shadowrocket
-#Shadowrocket Configuration - All IN ONE
+#Shadowrocket Configuration - LocketGold Vip
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT
